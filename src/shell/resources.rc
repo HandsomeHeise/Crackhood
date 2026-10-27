@@ -1,0 +1,8 @@
+#include <windows.h>
+101 ICON "icons/root.ico"
+102 ICON "icons/add.ico"
+103 ICON "icons/console.ico"
+104 ICON "icons/default.ico"
+105 ICON "icons/drive.ico"
+106 ICON "icons/folder.ico"
+107 ICON "icons/xex.ico"

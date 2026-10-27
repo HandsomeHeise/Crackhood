@@ -1,0 +1,4 @@
+LIBRARY CrackhoodShell
+EXPORTS
+    DllGetClassObject PRIVATE
+    DllCanUnloadNow PRIVATE
